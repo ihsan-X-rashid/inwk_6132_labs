@@ -1,0 +1,3 @@
+[submodule "lab4/lab4/src/ntc-templates"]
+	path = lab4/lab4/src/ntc-templates
+	url = https://github.com/networktocode/ntc-templates
